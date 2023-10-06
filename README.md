@@ -1,5 +1,5 @@
-# Library_cli
-# Library Management CLI
+# Library-Management-System
+# Library-Management-System
 
 This is a command-line interface (CLI) application for managing a library with books and authors. It allows you to add, list, and delete books and authors from a database.
 
