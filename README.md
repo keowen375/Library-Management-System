@@ -50,7 +50,7 @@ bash
 Usage
 
 Once you have set up the environment, you can use the CLI to manage your library.
-Adding an Author
+Adding an Author.
 
 To add an author to the library, use the add_author command:
 
