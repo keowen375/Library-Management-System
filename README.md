@@ -21,7 +21,7 @@ This is a command-line interface (CLI) application for managing a library with b
 
 ## Installation
 
-To run this CLI application, you'll need Python and Pipenv installed on your system
+To run this CLI application, you'll need Python and Pipenv installed on your system .
 
 1. Clone the repository:
 
