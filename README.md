@@ -84,7 +84,7 @@ bash
 
 python cli.py delete_book book_id
 
-Replace book_id with the ID of the book you want to delete.
+Replace book_id with the ID of the book you want to delete .
 Deleting an Author
 
 To delete an author from the library, use the delete_author command:
