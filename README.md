@@ -93,7 +93,7 @@ bash
 
 python cli.py delete_author author_id
 
-Replace author_id with the ID of the author you want to delete
+Replace author_id with the ID of the author you want to delete.
 Contributing
 
 
