@@ -15,7 +15,7 @@ This is a command-line interface (CLI) application for managing a library with b
 ## Features
 
 - Add authors to the library.
-- Add books to the library and associate them with authors
+- Add books to the library and associate them with authors .
 - List all books in the library.
 - Delete books and authors from the library.
 
