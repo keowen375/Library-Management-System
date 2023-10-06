@@ -74,7 +74,7 @@ To list all books in the library, use the list_books command:
 
 bash
 
-python cli.py list_books.
+python cli.py list_books
 
 Deleting a Book
 
